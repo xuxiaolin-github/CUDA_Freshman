@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/3_sum_arrays/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/3_sum_arrays/build/CMakeFiles/sum_arrays.dir
+/home/xu/learn/CUDA_Freshman/3_sum_arrays/build/CMakeFiles/edit_cache.dir

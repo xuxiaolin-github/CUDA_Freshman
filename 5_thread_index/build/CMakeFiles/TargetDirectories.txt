@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/5_thread_index/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/5_thread_index/build/CMakeFiles/thread_index.dir
+/home/xu/learn/CUDA_Freshman/5_thread_index/build/CMakeFiles/edit_cache.dir

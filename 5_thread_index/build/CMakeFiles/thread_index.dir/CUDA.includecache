@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/freshman.h
+time.h
+-
+windows.h
+-
+sys/time.h
+-
+
+/home/xu/learn/CUDA_Freshman/5_thread_index/thread_index.cu
+cuda_runtime.h
+-
+stdio.h
+-
+freshman.h
+/home/xu/learn/CUDA_Freshman/5_thread_index/freshman.h
+

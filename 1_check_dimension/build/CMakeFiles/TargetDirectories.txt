@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/1_check_dimension/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/1_check_dimension/build/CMakeFiles/check_dimension.dir
+/home/xu/learn/CUDA_Freshman/1_check_dimension/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc    -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/check_dimension.dir/check_dimension.cu.o -o CMakeFiles/check_dimension.dir/cmake_device_link.o 
