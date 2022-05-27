@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc    -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/simple_sum_matrix.dir/simple_sum_matrix.o -o CMakeFiles/simple_sum_matrix.dir/cmake_device_link.o 

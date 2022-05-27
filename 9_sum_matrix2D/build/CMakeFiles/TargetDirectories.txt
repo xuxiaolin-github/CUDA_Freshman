@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/9_sum_matrix2D/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/9_sum_matrix2D/build/CMakeFiles/sum_matrix2D.dir
+/home/xu/learn/CUDA_Freshman/9_sum_matrix2D/build/CMakeFiles/edit_cache.dir

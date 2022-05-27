@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/10_reduceInteger/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/10_reduceInteger/build/CMakeFiles/reduceInteger.dir
+/home/xu/learn/CUDA_Freshman/10_reduceInteger/build/CMakeFiles/edit_cache.dir

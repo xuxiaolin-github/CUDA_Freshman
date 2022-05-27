@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/12_reduce_unrolling/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/12_reduce_unrolling/build/CMakeFiles/reduceUnrolling.dir
+/home/xu/learn/CUDA_Freshman/12_reduce_unrolling/build/CMakeFiles/edit_cache.dir

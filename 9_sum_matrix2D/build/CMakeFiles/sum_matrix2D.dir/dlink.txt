@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc    -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/sum_matrix2D.dir/sum_matrix2D.o -o CMakeFiles/sum_matrix2D.dir/cmake_device_link.o 

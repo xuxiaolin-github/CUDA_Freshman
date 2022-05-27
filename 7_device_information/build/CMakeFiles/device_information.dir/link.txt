@@ -1,0 +1,1 @@
+/usr/bin/g++   CMakeFiles/device_information.dir/device_information.cu.o CMakeFiles/device_information.dir/cmake_device_link.o -o device_information  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

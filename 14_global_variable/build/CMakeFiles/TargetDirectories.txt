@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/14_global_variable/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/14_global_variable/build/CMakeFiles/global_variable.dir
+/home/xu/learn/CUDA_Freshman/14_global_variable/build/CMakeFiles/edit_cache.dir

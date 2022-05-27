@@ -99,9 +99,9 @@ __global__ void reduceNeighboredLess(int * g_idata,int *g_odata,unsigned int n)
 __global__ void reduceInterleaved(int * g_idata, int *g_odata, unsigned int n)
 {
 	unsigned int tid = threadIdx.x;
-	unsigned idx = blockIdx.x*blockDim.x + threadIdx.x;
+	unsigned idx = blockIdx.x * blockDim.x + threadIdx.x;
 	// convert global data pointer to the local point of this block
-	int *idata = g_idata + blockIdx.x*blockDim.x;
+	int *idata = g_idata + blockIdx.x* blockDim.x;
 	if (idx >= n)
 		return;
 	//in-place reduction in global memory

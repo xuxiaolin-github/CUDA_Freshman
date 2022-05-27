@@ -1,0 +1,3 @@
+/home/xu/learn/CUDA_Freshman/7_device_information/build/CMakeFiles/rebuild_cache.dir
+/home/xu/learn/CUDA_Freshman/7_device_information/build/CMakeFiles/device_information.dir
+/home/xu/learn/CUDA_Freshman/7_device_information/build/CMakeFiles/edit_cache.dir

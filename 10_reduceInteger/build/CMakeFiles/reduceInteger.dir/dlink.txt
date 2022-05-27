@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc    -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/reduceInteger.dir/reduceInteger.o -o CMakeFiles/reduceInteger.dir/cmake_device_link.o 

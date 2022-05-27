@@ -57,8 +57,8 @@ int main(int argc,char** argv)
   CHECK(cudaMemcpy(A_dev,A_host,nBytes,cudaMemcpyHostToDevice));
   CHECK(cudaMemcpy(B_dev,B_host,nBytes,cudaMemcpyHostToDevice));
 
-  int dimx=32;
-  int dimy=32;
+  int dimx=argc>2?atoi(argv[1]):32;
+  int dimy=argc>2?atoi(argv[2]):32;
 
   // cpu compute
   cudaMemcpy(C_from_gpu,C_dev,nBytes,cudaMemcpyDeviceToHost);

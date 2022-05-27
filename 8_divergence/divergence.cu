@@ -131,6 +131,9 @@ int main(int argc, char **argv)
 
 	cudaFree(C_dev);
 	free(C_host);
+
+	cudaDeviceSynchronize();
 	cudaDeviceReset();
+	
 	return EXIT_SUCCESS;
 }
